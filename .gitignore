@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+PLATFORMS/*
+!PLATFORMS/Android/
+!PLATFORMS/Windows/
+*.user
