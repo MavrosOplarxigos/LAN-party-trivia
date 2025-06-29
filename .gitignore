@@ -5,3 +5,7 @@ PLATFORMS/*
 !PLATFORMS/Android/
 !PLATFORMS/Windows/
 *.user
+Resources/AppIcon/rawinitialicons
+Directory.Build.props
+Directory.Build.targets
+keystore/*

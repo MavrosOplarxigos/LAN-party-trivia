@@ -9,7 +9,7 @@
             Spacing="25">
 
             <Label
-                Text="LAN PARTY TRIVIA!"
+                Text="LAN PARTY TRIVIA! For the win!"
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1" />
 

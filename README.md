@@ -6,11 +6,14 @@ This is an application for LAN parties where you want to play simple trivia quiz
 - [ ] Create your own track(s) of questions.
 - [ ] Locally host a game for other users of the app to join.
 
+
+Move the blow section to Resources I guess
 # Tools Used For Graphics/Images:
 
 ## Image Generation
 - https://www.bing.com/images/create/ (prompts included in code)
 
 ## Image Files Processing/Convertion
-- https://www.autotracer.org/ (convert .png to .svg format)
+- https://www.autotracer.org/
+- https://www.freeconvert.com/
 - https://cloudconvert.com/ (convert .jfif to .png format)
